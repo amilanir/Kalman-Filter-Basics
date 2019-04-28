@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 23 06:08:41 2019
-
-@author: Amila
-"""
-
-# Write a function 'kalman_filter' that implements a multi-
-# dimensional Kalman Filter for the example given
-
 from math import *
 
 
